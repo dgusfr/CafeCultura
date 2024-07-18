@@ -2,8 +2,6 @@
 
 Este projeto tem o intuito de colocar em prática estilização CSS usando desde métricas puras até Flex Box e Grid Layout.
 
-Este site foi desenvolvido durante os meus estudos no curso de CSS estilização da Origamid ®
-
 ## Interface
 
 <div align="center">
