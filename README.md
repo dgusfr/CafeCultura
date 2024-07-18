@@ -61,3 +61,5 @@ O projeto consiste em uma pasta img com as imagens do projeto, uma pasta css com
 1. git clone "caminhoDoRepositorio"
 2. index.html
 3. Acione a extensão Live Server
+
+change
