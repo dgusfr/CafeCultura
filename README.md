@@ -1,4 +1,4 @@
-# Cafeteria Brafé
+# Cafeteria Café & Cultura
 
 Este projeto tem o intuito de colocar em prática estilização CSS usando desde métricas puras até Flex Box e Grid Layout.
 
